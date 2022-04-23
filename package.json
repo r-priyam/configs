@@ -1,0 +1,19 @@
+{
+  "name": "root-configs",
+  "version": "1.0.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-priyam/configs.git"
+  },
+  "license": "MIT",
+  "author": "r-priyam",
+  "files": [],
+  "scripts": {
+    "renovate:test": "renovate-config-validator"
+  },
+  "devDependencies": {
+    "renovate": "^32.26.0"
+  },
+  "packageManager": "yarn@3.2.0"
+}
