@@ -5116,7 +5116,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"renovate@npm:^32.26.0":
+"renovate@npm:32.27.5":
   version: 32.27.5
   resolution: "renovate@npm:32.27.5"
   dependencies:
@@ -5311,7 +5311,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-configs@workspace:."
   dependencies:
-    renovate: ^32.26.0
+    renovate: 32.27.5
   languageName: unknown
   linkType: soft
 
