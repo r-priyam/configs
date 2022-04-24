@@ -2,7 +2,7 @@
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
 	"extends": ["config:base", "helpers:pinGitHubActionDigests", "group:allNonMajor", ":disableDependencyDashboard"],
 	"labels": ["Meta: Dependencies"],
-	"schedule": ["at any time"],
+	"schedule": ["after 10pm, before 5:00am"],
 	"timezone": "Asia/Kolkata",
 	"lockFileMaintenance": {
 		"enabled": true,
