@@ -4,13 +4,14 @@
 	"labels": ["Meta: Dependencies"],
 	"schedule": ["after 10pm, before 5:00am"],
 	"timezone": "Asia/Kolkata",
+	"rangeStrategy": "bump",
 	"lockFileMaintenance": {
 		"enabled": true,
 		"automerge": true
 	},
 	"packageRules": [
 		{
-			"matchUpdateTypes": ["minor", "patch"],
+			"matchUpdateTypes": ["minor", "patch", "pin"],
 			"matchCurrentVersion": "!/^0/",
 			"automerge": true,
 			"automergeStrategy": "squash"
