@@ -1126,21 +1126,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@octokit/openapi-types@npm:^12.6.1":
-  version: 12.6.1
-  resolution: "@octokit/openapi-types@npm:12.6.1"
-  checksum: fd463120db23824a29af4e6fa5a3b3502d1e9e33a916d5c55d92304d06174c891bbce06a3261351cd949266b60806255277a48b3aea0c55df75255fb7d6d0b9b
+"@octokit/openapi-types@npm:^12.7.0":
+  version: 12.8.0
+  resolution: "@octokit/openapi-types@npm:12.8.0"
+  checksum: 66058ebb9aabfeafaf61cd205487edd14b8f3eac7c6aa796cd7489fe948657912514d9b02918c1bca9d88a07dbb2deed5763e2ca61a6a8f6503caee32429a7b1
   languageName: node
   linkType: hard
 
 "@octokit/plugin-paginate-rest@npm:^2.16.8":
-  version: 2.21.1
-  resolution: "@octokit/plugin-paginate-rest@npm:2.21.1"
+  version: 2.21.2
+  resolution: "@octokit/plugin-paginate-rest@npm:2.21.2"
   dependencies:
-    "@octokit/types": ^6.38.2
+    "@octokit/types": ^6.39.0
   peerDependencies:
-    "@octokit/core": ">=2"
-  checksum: 2941d0320ec6891cbb0248afe8f8ba019e2971704c6b975a01b99358c432ed84c2920f52d095fc912616e43a59ef582c1df6b868d59a39e2bf095476306ba6f1
+    "@octokit/core": ">=4"
+  checksum: 386727fb2e39be589dc66e2de31da6a4b7f2039ec1829552b64165b435cbb0bddd8431578c8b73ea063209d2f695a5391ad0d3214027349480c39ebdd5fdf09a
   languageName: node
   linkType: hard
 
@@ -1154,14 +1154,14 @@ __metadata:
   linkType: hard
 
 "@octokit/plugin-rest-endpoint-methods@npm:^5.12.0":
-  version: 5.16.1
-  resolution: "@octokit/plugin-rest-endpoint-methods@npm:5.16.1"
+  version: 5.16.2
+  resolution: "@octokit/plugin-rest-endpoint-methods@npm:5.16.2"
   dependencies:
-    "@octokit/types": ^6.38.2
+    "@octokit/types": ^6.39.0
     deprecation: ^2.3.1
   peerDependencies:
     "@octokit/core": ">=3"
-  checksum: d940bdf64329835b1669dbb14c790d947c644ce470a80d303deb1a55d08b0ed7e54c24281fcc1ebc47bea9bcfbd6f8548cb0f4acfecc179b522417095eee4138
+  checksum: 30fcc50c335d1093f03573d9fa3a4b7d027fc98b215c43e07e82ee8dabfa0af0cf1b963feb542312ae32d897a2f68dc671577206f30850215517bebedc5a2c73
   languageName: node
   linkType: hard
 
@@ -1202,12 +1202,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@octokit/types@npm:^6.0.3, @octokit/types@npm:^6.16.1, @octokit/types@npm:^6.38.2":
-  version: 6.38.2
-  resolution: "@octokit/types@npm:6.38.2"
+"@octokit/types@npm:^6.0.3, @octokit/types@npm:^6.16.1, @octokit/types@npm:^6.39.0":
+  version: 6.39.0
+  resolution: "@octokit/types@npm:6.39.0"
   dependencies:
-    "@octokit/openapi-types": ^12.6.1
-  checksum: ee83a46f0d24ff211fb75a54d0feb615efd1be0a2dae161b3596e8fb60126268409a4bfa8c27c311b4f12027147c90de3a88d892007b7353f0529d411593bbd4
+    "@octokit/openapi-types": ^12.7.0
+  checksum: 0e3d55e4bdef41e652a2e99a304cebada90f23a90619c49ab892a76ae908c4281316738453348c9ba30b32250ef5eda0a939c2af3aec5ca808acdf9922da420c
   languageName: node
   linkType: hard
 
@@ -1487,9 +1487,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.0.1
-  resolution: "@types/node@npm:18.0.1"
-  checksum: be14b251c54cc2b4ca78ac6eadf2fe5e831e487f2e17848f21d576295945b538271dcc674d0bba582b3f8d95b84f6826e99b6ba4710c76f165a8bdd4d4f0618e
+  version: 18.0.3
+  resolution: "@types/node@npm:18.0.3"
+  checksum: 5dec59fbbc1186c808b53df1ca717dad034dbd6a901c75f5b052c845618b531b05f27217122c6254db99529a68618e4cfc534ae3dbf4e88754e9e572df80defa
   languageName: node
   linkType: hard
 
@@ -4410,9 +4410,9 @@ __metadata:
   linkType: hard
 
 "moment@npm:^2.19.3":
-  version: 2.29.3
-  resolution: "moment@npm:2.29.3"
-  checksum: 2e780e36d9a1823c08a1b6313cbb08bd01ecbb2a9062095820a34f42c878991ccba53abaa6abb103fd5c01e763724f295162a8c50b7e95b4f1c992ef0772d3f0
+  version: 2.29.4
+  resolution: "moment@npm:2.29.4"
+  checksum: 0ec3f9c2bcba38dc2451b1daed5daded747f17610b92427bebe1d08d48d8b7bdd8d9197500b072d14e326dd0ccf3e326b9e3d07c5895d3d49e39b6803b76e80e
   languageName: node
   linkType: hard
 
@@ -6046,11 +6046,11 @@ __metadata:
   linkType: hard
 
 "uglify-js@npm:^3.1.4":
-  version: 3.16.1
-  resolution: "uglify-js@npm:3.16.1"
+  version: 3.16.2
+  resolution: "uglify-js@npm:3.16.2"
   bin:
     uglifyjs: bin/uglifyjs
-  checksum: e4108b35af7bcc9cf3be5366614bb1df2c78695aa14dee85b48cb9036a4478e60e91afe2375917e3284b61ef056fcab3a1d4bfc7c563e57bc77fd5ac89463a4c
+  checksum: 5b62e748b7fa1d982f0949ed1876b9367dcde4782f74159f4ea0b3d130835336eb0245e090456ec057468d937eb016114677bb38a7a4fdc7f68c3d002ca760ee
   languageName: node
   linkType: hard
 
