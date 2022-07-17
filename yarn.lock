@@ -641,9 +641,9 @@ __metadata:
   linkType: hard
 
 "@aws-sdk/types@npm:^3.1.0":
-  version: 3.110.0
-  resolution: "@aws-sdk/types@npm:3.110.0"
-  checksum: a48ca2d0acfe98c851fc9205d7a4256bc4b16c242505f63ed7f7cecf3919e1d9e6ea365dc6177f2f831bc2b299f3b4b317a0146ad49b58c58b8cabad776fc0ec
+  version: 3.127.0
+  resolution: "@aws-sdk/types@npm:3.127.0"
+  checksum: 35467177421fb180ca73eb85a327c814e3aaee11a8eabbf9f048d58ec4133d7205400ce2e3c3ef70d78a64a2359f1df2926e1a0e6f169a415c2896ff6dfb66d9
   languageName: node
   linkType: hard
 
@@ -1126,10 +1126,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@octokit/openapi-types@npm:^12.7.0":
-  version: 12.8.0
-  resolution: "@octokit/openapi-types@npm:12.8.0"
-  checksum: 66058ebb9aabfeafaf61cd205487edd14b8f3eac7c6aa796cd7489fe948657912514d9b02918c1bca9d88a07dbb2deed5763e2ca61a6a8f6503caee32429a7b1
+"@octokit/openapi-types@npm:^12.10.0":
+  version: 12.10.0
+  resolution: "@octokit/openapi-types@npm:12.10.0"
+  checksum: 379a97d54570cff3bb15f1a8e2b326773ab1d9ecb07c138cc038eb04062cbf78ebb4f85d3bc81b4fd77333af9cb45173e52d152540626caf96845b842cf3d6f6
   languageName: node
   linkType: hard
 
@@ -1203,11 +1203,11 @@ __metadata:
   linkType: hard
 
 "@octokit/types@npm:^6.0.3, @octokit/types@npm:^6.16.1, @octokit/types@npm:^6.39.0":
-  version: 6.39.0
-  resolution: "@octokit/types@npm:6.39.0"
+  version: 6.40.0
+  resolution: "@octokit/types@npm:6.40.0"
   dependencies:
-    "@octokit/openapi-types": ^12.7.0
-  checksum: 0e3d55e4bdef41e652a2e99a304cebada90f23a90619c49ab892a76ae908c4281316738453348c9ba30b32250ef5eda0a939c2af3aec5ca808acdf9922da420c
+    "@octokit/openapi-types": ^12.10.0
+  checksum: e8854fefd24003423bb03c3530449d1b390d340dc21f078a34adfa89a356138e9ab8f02493c6aa1e1bd101f630658dce24877e0615c130911fac8adc721eac42
   languageName: node
   linkType: hard
 
@@ -1487,9 +1487,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.0.3
-  resolution: "@types/node@npm:18.0.3"
-  checksum: 5dec59fbbc1186c808b53df1ca717dad034dbd6a901c75f5b052c845618b531b05f27217122c6254db99529a68618e4cfc534ae3dbf4e88754e9e572df80defa
+  version: 18.0.5
+  resolution: "@types/node@npm:18.0.5"
+  checksum: cc9c67d0074252f798d226dd95a22e0e8851cf7fc623ef4a603d9ad2c2b46650f930147062ea33719008b1de67f08f499ad693307d02f8396e6f1fead8144329
   languageName: node
   linkType: hard
 
@@ -2204,11 +2204,11 @@ __metadata:
   linkType: hard
 
 "clone-response@npm:^1.0.2":
-  version: 1.0.2
-  resolution: "clone-response@npm:1.0.2"
+  version: 1.0.3
+  resolution: "clone-response@npm:1.0.3"
   dependencies:
     mimic-response: ^1.0.0
-  checksum: 2d0e61547fc66276e0903be9654ada422515f5a15741691352000d47e8c00c226061221074ce2c0064d12e975e84a8687cfd35d8b405750cb4e772f87b256eda
+  checksum: 4e671cac39b11c60aa8ba0a450657194a5d6504df51bca3fac5b3bd0145c4f8e8464898f87c8406b83232e3bc5cca555f51c1f9c8ac023969ebfbf7f6bdabb2e
   languageName: node
   linkType: hard
 
@@ -3990,9 +3990,9 @@ __metadata:
   linkType: hard
 
 "lru-cache@npm:^7.7.1":
-  version: 7.12.0
-  resolution: "lru-cache@npm:7.12.0"
-  checksum: fdb62262978393df7a4bd46a072bc5c3808c50ca5a347a82bb9459410efd841b7bae50655c3cf9004c70d12c756cf6d018f6bff155a16cdde9eba9a82899b5eb
+  version: 7.13.1
+  resolution: "lru-cache@npm:7.13.1"
+  checksum: f53c7dd098a7afd6342b23f7182629edff206c7665de79445a7f5455440e768a4d1c6ec52e1a16175580c71535c9437dfb6f6bc22ca1a0e4a7454a97cde87329
   languageName: node
   linkType: hard
 
@@ -4524,8 +4524,8 @@ __metadata:
   linkType: hard
 
 "node-gyp@npm:latest":
-  version: 9.0.0
-  resolution: "node-gyp@npm:9.0.0"
+  version: 9.1.0
+  resolution: "node-gyp@npm:9.1.0"
   dependencies:
     env-paths: ^2.2.0
     glob: ^7.1.4
@@ -4539,7 +4539,7 @@ __metadata:
     which: ^2.0.2
   bin:
     node-gyp: bin/node-gyp.js
-  checksum: 4d8ef8860f7e4f4d86c91db3f519d26ed5cc23b48fe54543e2afd86162b4acbd14f21de42a5db344525efb69a991e021b96a68c70c6e2d5f4a5cb770793da6d3
+  checksum: 1437fa4a879b5b9010604128e8da8609b57c66034262087539ee04a8b764b8436af2be01bab66f8fc729a3adba2dcc21b10a32b9f552696c3fa8cd657d134fc4
   languageName: node
   linkType: hard
 
