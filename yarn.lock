@@ -641,9 +641,9 @@ __metadata:
   linkType: hard
 
 "@aws-sdk/types@npm:^3.1.0, @aws-sdk/types@npm:^3.110.0":
-  version: 3.208.0
-  resolution: "@aws-sdk/types@npm:3.208.0"
-  checksum: 3d4eb51720bd20b6811dece5e096ba3b59da842d1c8b2a8e2785e9931d916f41197651da689aa415083e1259e03507b7703ecbbac001b4cdbe68dde2ed94b5cf
+  version: 3.212.0
+  resolution: "@aws-sdk/types@npm:3.212.0"
+  checksum: ba085aa2f70930adc250b4d142563cf886b9cbd98c011abe9d1d8dbad8b9cc8558a54d34bbeabed62a1a958a871c8d9d6cdaf43d57c31af8fc03a35a93ae5fb4
   languageName: node
   linkType: hard
 
@@ -1580,13 +1580,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@yarnpkg/fslib@npm:^2.5.0, @yarnpkg/fslib@npm:^2.6.0, @yarnpkg/fslib@npm:^2.7.1, @yarnpkg/fslib@npm:^2.8.0":
-  version: 2.8.0
-  resolution: "@yarnpkg/fslib@npm:2.8.0"
+"@yarnpkg/fslib@npm:^2.5.0, @yarnpkg/fslib@npm:^2.6.0, @yarnpkg/fslib@npm:^2.9.0":
+  version: 2.9.0
+  resolution: "@yarnpkg/fslib@npm:2.9.0"
   dependencies:
     "@yarnpkg/libzip": ^2.2.4
     tslib: ^1.13.0
-  checksum: ab7fcdba0224fc3a8b76b717b57179c728462caa7c309fe72387790f8d8627395e30006dc6f8ffe2e863df5cc6a006abc72ec11a3639861f2c2c0e193a3ac213
+  checksum: a121d801c764408e4d290a343b7c811eb33d15f6c6a82c8b00c84aaa0b7bed610ca858047e8fb5e4c8b28cc29493ec19437fe43529dccf518215e5b38723fdc2
   languageName: node
   linkType: hard
 
@@ -1631,20 +1631,20 @@ __metadata:
   linkType: hard
 
 "@yarnpkg/pnp@npm:^3.1.0":
-  version: 3.2.4
-  resolution: "@yarnpkg/pnp@npm:3.2.4"
+  version: 3.2.5
+  resolution: "@yarnpkg/pnp@npm:3.2.5"
   dependencies:
     "@types/node": ^13.7.0
-    "@yarnpkg/fslib": ^2.8.0
-  checksum: ec74532fa03856cc44e56a4cf3c52ed2e467dd478303a2fe8d39708771a8f5af6f167d4b38f7d4a59edfe78c9f823c3bfa0a92aa4bdc665c71943cbbde98b983
+    "@yarnpkg/fslib": ^2.9.0
+  checksum: d2dd7410383ad1d59ddabc4cdb532b1bbb109bb87a1aad0414b13d46c9f66cdbbfa6008f01132345c05f445d5388b829060340bf74c14d3e7f3a212fac8dac33
   languageName: node
   linkType: hard
 
 "@yarnpkg/shell@npm:^3.1.0":
-  version: 3.2.4
-  resolution: "@yarnpkg/shell@npm:3.2.4"
+  version: 3.2.5
+  resolution: "@yarnpkg/shell@npm:3.2.5"
   dependencies:
-    "@yarnpkg/fslib": ^2.7.1
+    "@yarnpkg/fslib": ^2.9.0
     "@yarnpkg/parsers": ^2.5.1
     chalk: ^3.0.0
     clipanion: 3.2.0-rc.4
@@ -1655,7 +1655,7 @@ __metadata:
     tslib: ^1.13.0
   bin:
     shell: ./lib/cli.js
-  checksum: 78eb96d5a5d9af093b50d9727cee33f2edfb5a552b5750f237c3324c89763f965738cc7827dd7d2c1092b54e10b6a16e6390faa2880bfa984f7b29be1de925ba
+  checksum: 89fe80fec6ccd5a1a713ea11285bce17fe1f3cc42507b4e63565818c4afb41e588d368cf7c198fe2b3eeb900cae87233c2d52c27da288a57f82f85a07cf9b221
   languageName: node
   linkType: hard
 
