@@ -1482,9 +1482,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.11.18
-  resolution: "@types/node@npm:18.11.18"
-  checksum: 03f17f9480f8d775c8a72da5ea7e9383db5f6d85aa5fefde90dd953a1449bd5e4ffde376f139da4f3744b4c83942166d2a7603969a6f8ea826edfb16e6e3b49d
+  version: 18.11.19
+  resolution: "@types/node@npm:18.11.19"
+  checksum: d7cd19fcfc59cbdd3f9ba0b4072cb7adc21bd575bd8eb7d7e698975e63564aaa83f03434f32b12331f84f73d0b369d9cbe2371e359d9d7f5c3361f4987f4f7da
   languageName: node
   linkType: hard
 
@@ -1582,13 +1582,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@yarnpkg/fslib@npm:^2.10.0, @yarnpkg/fslib@npm:^2.5.0, @yarnpkg/fslib@npm:^2.6.0, @yarnpkg/fslib@npm:^2.9.0":
-  version: 2.10.0
-  resolution: "@yarnpkg/fslib@npm:2.10.0"
+"@yarnpkg/fslib@npm:^2.10.1, @yarnpkg/fslib@npm:^2.5.0, @yarnpkg/fslib@npm:^2.6.0, @yarnpkg/fslib@npm:^2.9.0":
+  version: 2.10.1
+  resolution: "@yarnpkg/fslib@npm:2.10.1"
   dependencies:
     "@yarnpkg/libzip": ^2.2.4
     tslib: ^1.13.0
-  checksum: 7c08938b442cb93ecb710f0b1e877836c3c0ead492a1d120e7ae62f96575630fa93e18f3189086156373bb03b04a1833135a7065fdd7160874b0b2b22eb34f71
+  checksum: 76a4e094cdde790edf9c1609c63c4ab4e7d518fc13e05da2de9431ece15ccd442a941b505e90d62731edef8ce7a0e491c60fc824f4383dcecf69d4cec74a8ba6
   languageName: node
   linkType: hard
 
@@ -1633,12 +1633,12 @@ __metadata:
   linkType: hard
 
 "@yarnpkg/pnp@npm:^3.1.0":
-  version: 3.2.6
-  resolution: "@yarnpkg/pnp@npm:3.2.6"
+  version: 3.3.0
+  resolution: "@yarnpkg/pnp@npm:3.3.0"
   dependencies:
     "@types/node": ^13.7.0
-    "@yarnpkg/fslib": ^2.10.0
-  checksum: 3d866a7f6c85277560d74269a6e2d660a173931c71516dae0ab4620bdc9eec1672d352f7a8be395d1d2b27f33f7ac7bd58161135998e38d7ce393a825105207b
+    "@yarnpkg/fslib": ^2.10.1
+  checksum: 231f65f50684c9b4f994096483540ca276172f27f0dbc43b4c8ff65b66aed2cb59f547165e1f1b627108deef4c2204f16f429b3486d0c375e384380679407c3b
   languageName: node
   linkType: hard
 
@@ -4210,11 +4210,9 @@ __metadata:
   linkType: hard
 
 "minipass@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "minipass@npm:4.0.0"
-  dependencies:
-    yallist: ^4.0.0
-  checksum: 7a609afbf394abfcf9c48e6c90226f471676c8f2a67f07f6838871afb03215ede431d1433feffe1b855455bcb13ef0eb89162841b9796109d6fed8d89790f381
+  version: 4.0.2
+  resolution: "minipass@npm:4.0.2"
+  checksum: 2e4f4caaf85a45c01c6042adc43b5111a6113f62e300acf1db3b193ac3ec6e955bc893d6d8a08635598771a55a0f60487dcac59a1ac39557eb524295d4778c9e
   languageName: node
   linkType: hard
 
@@ -4329,8 +4327,8 @@ __metadata:
   linkType: hard
 
 "node-fetch@npm:^2.6.7":
-  version: 2.6.8
-  resolution: "node-fetch@npm:2.6.8"
+  version: 2.6.9
+  resolution: "node-fetch@npm:2.6.9"
   dependencies:
     whatwg-url: ^5.0.0
   peerDependencies:
@@ -4338,7 +4336,7 @@ __metadata:
   peerDependenciesMeta:
     encoding:
       optional: true
-  checksum: 91f57be68e29f9b1382750693619e199733a6936998e6d618f1aa779853ad8fc4a2facf170db7957bf1d2510bad33449edf74b5802713d81b63de5986fa3be00
+  checksum: acb04f9ce7224965b2b59e71b33c639794d8991efd73855b0b250921382b38331ffc9d61bce502571f6cc6e11a8905ca9b1b6d4aeb586ab093e2756a1fd190d0
   languageName: node
   linkType: hard
 
