@@ -641,11 +641,11 @@ __metadata:
   linkType: hard
 
 "@aws-sdk/types@npm:^3.1.0, @aws-sdk/types@npm:^3.110.0":
-  version: 3.303.0
-  resolution: "@aws-sdk/types@npm:3.303.0"
+  version: 3.306.0
+  resolution: "@aws-sdk/types@npm:3.306.0"
   dependencies:
     tslib: ^2.5.0
-  checksum: 56765a98dfd70309b3e07c86ae2ad44b1ead064547a3cb06ebb04033cceaf5626eaedacfc986234042d6aff5b09450c39f2d56b1d50031f7e7a369047e30d8ff
+  checksum: 6a76d6ba7496e08f110381c113fe81c485e55f86894551f9c83d315ac2f209d5ec3041f8b12b7e7e3d6f8dd9044fa4eff4d0b3acd1605ff3f264998ee93a595b
   languageName: node
   linkType: hard
 
@@ -3439,7 +3439,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"is-core-module@npm:^2.5.0, is-core-module@npm:^2.9.0":
+"is-core-module@npm:^2.11.0, is-core-module@npm:^2.5.0":
   version: 2.11.0
   resolution: "is-core-module@npm:2.11.0"
   dependencies:
@@ -5148,28 +5148,28 @@ __metadata:
   linkType: hard
 
 "resolve@npm:^1.10.0":
-  version: 1.22.1
-  resolution: "resolve@npm:1.22.1"
+  version: 1.22.2
+  resolution: "resolve@npm:1.22.2"
   dependencies:
-    is-core-module: ^2.9.0
+    is-core-module: ^2.11.0
     path-parse: ^1.0.7
     supports-preserve-symlinks-flag: ^1.0.0
   bin:
     resolve: bin/resolve
-  checksum: 07af5fc1e81aa1d866cbc9e9460fbb67318a10fa3c4deadc35c3ad8a898ee9a71a86a65e4755ac3195e0ea0cfbe201eb323ebe655ce90526fd61917313a34e4e
+  checksum: 7e5df75796ebd429445d102d5824482ee7e567f0070b2b45897b29bb4f613dcbc262e0257b8aeedb3089330ccaea0d6a0464df1a77b2992cf331dcda0f4cb549
   languageName: node
   linkType: hard
 
 "resolve@patch:resolve@^1.10.0#~builtin<compat/resolve>":
-  version: 1.22.1
-  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=07638b"
+  version: 1.22.2
+  resolution: "resolve@patch:resolve@npm%3A1.22.2#~builtin<compat/resolve>::version=1.22.2&hash=07638b"
   dependencies:
-    is-core-module: ^2.9.0
+    is-core-module: ^2.11.0
     path-parse: ^1.0.7
     supports-preserve-symlinks-flag: ^1.0.0
   bin:
     resolve: bin/resolve
-  checksum: 5656f4d0bedcf8eb52685c1abdf8fbe73a1603bb1160a24d716e27a57f6cecbe2432ff9c89c2bd57542c3a7b9d14b1882b73bfe2e9d7849c9a4c0b8b39f02b8b
+  checksum: 66cc788f13b8398de18eb4abb3aed90435c84bb8935953feafcf7231ba4cd191b2c10b4a87b1e9681afc34fb138c705f91f7330ff90bfa36f457e5584076a2b8
   languageName: node
   linkType: hard
 
