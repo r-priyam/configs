@@ -641,11 +641,11 @@ __metadata:
   linkType: hard
 
 "@aws-sdk/types@npm:^3.1.0, @aws-sdk/types@npm:^3.110.0":
-  version: 3.341.0
-  resolution: "@aws-sdk/types@npm:3.341.0"
+  version: 3.342.0
+  resolution: "@aws-sdk/types@npm:3.342.0"
   dependencies:
     tslib: ^2.5.0
-  checksum: 5f2cc39729f788daa77e1db542fbf03c8bd71aa1a0a847a93c983e781e2480b1905e34733bdcbb8eb73e454b1ee500133ebb872c09c36483dae726acafe56866
+  checksum: c9ec0873304548696deb604fcc4fcdacb726c9e03a65cdb4e9d8643a24ddf83ea32aa9d85b801406670526ca210131d5a8842d3674c73757c03ca5329ed2d13a
   languageName: node
   linkType: hard
 
@@ -1633,12 +1633,12 @@ __metadata:
   linkType: hard
 
 "@yarnpkg/pnp@npm:^3.1.0":
-  version: 3.3.2
-  resolution: "@yarnpkg/pnp@npm:3.3.2"
+  version: 3.3.3
+  resolution: "@yarnpkg/pnp@npm:3.3.3"
   dependencies:
     "@types/node": ^13.7.0
     "@yarnpkg/fslib": ^2.10.3
-  checksum: a8d451af7074b83d393110f646fa877a5e3c5d80149b8bfea3d34273cac72dd5d0f75efab158ac517a2d47b59620f0f3c248faea72d8574a67a90bfa5f7ec3f5
+  checksum: e379df5f8a6e1781f5af6f502b7d549642c62bf3c00fd9e6956389b7f6ccf4ee731b89d5c9569ff64eba5bf0b8d9003b7ad261d07a0506f7cba0cc70fedc4f33
   languageName: node
   linkType: hard
 
@@ -5804,9 +5804,9 @@ __metadata:
   linkType: hard
 
 "tslib@npm:^2.3.1, tslib@npm:^2.5.0":
-  version: 2.5.2
-  resolution: "tslib@npm:2.5.2"
-  checksum: 4d3c1e238b94127ed0e88aa0380db3c2ddae581dc0f4bae5a982345e9f50ee5eda90835b8bfba99b02df10a5734470be197158c36f9129ac49fdc14a6a9da222
+  version: 2.5.3
+  resolution: "tslib@npm:2.5.3"
+  checksum: 88902b309afaf83259131c1e13da1dceb0ad1682a213143a1346a649143924d78cf3760c448b84d796938fd76127183894f8d85cbb3bf9c4fddbfcc140c0003c
   languageName: node
   linkType: hard
 
