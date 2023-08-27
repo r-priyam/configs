@@ -641,12 +641,12 @@ __metadata:
   linkType: hard
 
 "@aws-sdk/types@npm:^3.1.0, @aws-sdk/types@npm:^3.110.0":
-  version: 3.391.0
-  resolution: "@aws-sdk/types@npm:3.391.0"
+  version: 3.398.0
+  resolution: "@aws-sdk/types@npm:3.398.0"
   dependencies:
-    "@smithy/types": ^2.2.0
+    "@smithy/types": ^2.2.2
     tslib: ^2.5.0
-  checksum: 3539807ba0d515e0788da7e234c83578b761cf02b4bc2ede04755a39e44cc22dfc2edd0a48d333a090dc87c0f540cef957cd3c8009a12f38017438b50563fcbb
+  checksum: b0c3531336e3dc0a3e2524199026a2366a29a4eee07195bffd6a9d48c778924183ac9894029b1053d0f744121cec3b7d397828f2065acf37eea79d3106af1273
   languageName: node
   linkType: hard
 
@@ -1350,12 +1350,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@smithy/types@npm:^2.2.0":
-  version: 2.2.1
-  resolution: "@smithy/types@npm:2.2.1"
+"@smithy/types@npm:^2.2.2":
+  version: 2.2.2
+  resolution: "@smithy/types@npm:2.2.2"
   dependencies:
     tslib: ^2.5.0
-  checksum: cd06347fce5ccf31464fef57a7943a3b5858aad6efc0169a9871c4e8dd11c542936f35ebac92c9d82e3cdd9668f23001400f5a1a015fff3f59e021a27fec32cb
+  checksum: 2799a14620da60efb2a0aba1bf9adc553a5446dc447b9ee1d7a95410233a70dff2b5e563fecf84388137dabbe662c6bf3a2247ca20a1f266c1256f82e0f25fcf
   languageName: node
   linkType: hard
 
@@ -1523,9 +1523,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 20.5.1
-  resolution: "@types/node@npm:20.5.1"
-  checksum: 3dbe611cd67afa987102c8558ee70f848949c5dcfee5f60abc073e55c0d7b048e391bf06bb1e0dc052cb7210ca97136ac496cbaf6e89123c989de6bd125fde82
+  version: 20.5.6
+  resolution: "@types/node@npm:20.5.6"
+  checksum: d2ce44f1cfa3fd00fe7426f7cf9a46d680cd57802b874ed5618e7d9101a9c6b8de37f08c0e7185ee06fb363ad492549c3ea69665c7e8e31c7813210ed8e89005
   languageName: node
   linkType: hard
 
@@ -1674,12 +1674,12 @@ __metadata:
   linkType: hard
 
 "@yarnpkg/pnp@npm:^3.1.0":
-  version: 3.3.4
-  resolution: "@yarnpkg/pnp@npm:3.3.4"
+  version: 3.3.5
+  resolution: "@yarnpkg/pnp@npm:3.3.5"
   dependencies:
     "@types/node": ^13.7.0
     "@yarnpkg/fslib": ^2.10.3
-  checksum: ab6a5425997d18dc0d3897f29218d484eb417cf964640a37380e16ac7862390b63bb24227164568bec59da7d70dc1028ee0a1cc7356eb8c605c94e7cbffe67eb
+  checksum: 5197775e44eb24607473793e344e10007289800b156061d5bd57a593ad735a0a34bd8d412bd822508048bd7c2442008766ac336595de1fc91c8f94c8179b47c6
   languageName: node
   linkType: hard
 
@@ -4461,8 +4461,8 @@ __metadata:
   linkType: hard
 
 "node-fetch@npm:^2.6.7":
-  version: 2.6.13
-  resolution: "node-fetch@npm:2.6.13"
+  version: 2.7.0
+  resolution: "node-fetch@npm:2.7.0"
   dependencies:
     whatwg-url: ^5.0.0
   peerDependencies:
@@ -4470,7 +4470,7 @@ __metadata:
   peerDependenciesMeta:
     encoding:
       optional: true
-  checksum: 055845ae5b4796c78c7053564745345025cf959563b3568b43c385f67d311779e6b00e5fef6ed1b79f86ba4048e4b4b722e1aa948305521b9353eb7e788912c9
+  checksum: d76d2f5edb451a3f05b15115ec89fc6be39de37c6089f1b6368df03b91e1633fd379a7e01b7ab05089a25034b2023d959b47e59759cb38d88341b2459e89d6e5
   languageName: node
   linkType: hard
 
