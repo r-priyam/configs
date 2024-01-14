@@ -641,12 +641,12 @@ __metadata:
   linkType: hard
 
 "@aws-sdk/types@npm:^3.1.0, @aws-sdk/types@npm:^3.110.0":
-  version: 3.485.0
-  resolution: "@aws-sdk/types@npm:3.485.0"
+  version: 3.489.0
+  resolution: "@aws-sdk/types@npm:3.489.0"
   dependencies:
     "@smithy/types": ^2.8.0
     tslib: ^2.5.0
-  checksum: d775673b5ad7e21333407380dcb8dcb6fa29e54ad6fbb26b81a463962d76365e2bfc57765a0daf3b0ed1eca440f845bf88f67066fe06910a0939e5992bc00d95
+  checksum: e4692f04daee278e4fc7faeadb8fee077aee5b1210a6c237c203b4688b714d1efc96c9f4574b71e264f71d8f4aad06b5728bcba13d12242c92f93dec81e3d3da
   languageName: node
   linkType: hard
 
@@ -1529,11 +1529,11 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 20.10.7
-  resolution: "@types/node@npm:20.10.7"
+  version: 20.11.0
+  resolution: "@types/node@npm:20.11.0"
   dependencies:
     undici-types: ~5.26.4
-  checksum: 86f4f96f5169538f47bbd652ab8e3712cd307701481ff3e9ce0c1ea7d8424a38b5ac4a1d33088cdd9ea1bfe68fd27bbae005a21969aa6d9a36295904da6f09f2
+  checksum: 1bd6890db7e0404d11c33d28f46f19f73256f0ba35d19f0ef2a0faba09f366f188915fb9338eebebcc472075c1c4941e17c7002786aa69afa44980737846b200
   languageName: node
   linkType: hard
 
@@ -3297,7 +3297,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"has-property-descriptors@npm:^1.0.0":
+"has-property-descriptors@npm:^1.0.0, has-property-descriptors@npm:^1.0.1":
   version: 1.0.1
   resolution: "has-property-descriptors@npm:1.0.1"
   dependencies:
@@ -5572,14 +5572,15 @@ __metadata:
   linkType: hard
 
 "set-function-length@npm:^1.1.1":
-  version: 1.1.1
-  resolution: "set-function-length@npm:1.1.1"
+  version: 1.2.0
+  resolution: "set-function-length@npm:1.2.0"
   dependencies:
     define-data-property: ^1.1.1
-    get-intrinsic: ^1.2.1
+    function-bind: ^1.1.2
+    get-intrinsic: ^1.2.2
     gopd: ^1.0.1
-    has-property-descriptors: ^1.0.0
-  checksum: c131d7569cd7e110cafdfbfbb0557249b538477624dfac4fc18c376d879672fa52563b74029ca01f8f4583a8acb35bb1e873d573a24edb80d978a7ee607c6e06
+    has-property-descriptors: ^1.0.1
+  checksum: 63e34b45a2ff9abb419f52583481bf8ba597d33c0c85e56999085eb6078a0f7fbb4222051981c287feceeb358aa7789e7803cea2c82ac94c0ab37059596aff79
   languageName: node
   linkType: hard
 
