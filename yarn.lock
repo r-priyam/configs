@@ -641,12 +641,12 @@ __metadata:
   linkType: hard
 
 "@aws-sdk/types@npm:^3.1.0, @aws-sdk/types@npm:^3.110.0":
-  version: 3.521.0
-  resolution: "@aws-sdk/types@npm:3.521.0"
+  version: 3.523.0
+  resolution: "@aws-sdk/types@npm:3.523.0"
   dependencies:
-    "@smithy/types": ^2.10.0
+    "@smithy/types": ^2.10.1
     tslib: ^2.5.0
-  checksum: 28d9ab39ad19e74ca721100131152bec975cea3c78e5013e70e9684b051c5115623430a923f0e92426b298033be94ebd554925ec4a5fb64273c48df90ea6c6eb
+  checksum: 42a8c47bfdd37030d1cb3a15bb1cc6e1dadbc371960cf0a52c868a453ebd3128f75ab7406a993c2ff0eff634e953c2ea12e8856af0e6f6745321bde4f8f7cbc6
   languageName: node
   linkType: hard
 
@@ -1363,12 +1363,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@smithy/types@npm:^2.10.0":
-  version: 2.10.0
-  resolution: "@smithy/types@npm:2.10.0"
+"@smithy/types@npm:^2.10.1":
+  version: 2.10.1
+  resolution: "@smithy/types@npm:2.10.1"
   dependencies:
     tslib: ^2.5.0
-  checksum: f353ff0d8f91454288585c7e03485c698af70d46490856abe21d1e2f2154f704a68599328297a1151c1585cd5b0f80a83c759f6d8e02ab168ce616e33cba18c4
+  checksum: 4293ac343d8c273c0021e27c2c84217a7d8966340863f65176ec6733bebb0a63263aff190f615b87836e338c419445f531ec84198b0d162ccf307e551dc271e7
   languageName: node
   linkType: hard
 
@@ -1529,20 +1529,20 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 20.11.20
-  resolution: "@types/node@npm:20.11.20"
+  version: 20.11.24
+  resolution: "@types/node@npm:20.11.24"
   dependencies:
     undici-types: ~5.26.4
-  checksum: 79d339622fed1c0e64297c8b9f558815a91edb9fea3acb69c1201b919d450e12915cf98b1a96b2d2c121bf86f30b62b6de3708f8894c5319f8dfb3a991e3ccdd
+  checksum: b11a650e09e254f4725c94f226752b69949a9ac4a5e004e98f109437ac50b02df3ab4d12b2086722fedf2cb62e68b9e723abd3f358a7d7d90d741a0d3bee90c2
   languageName: node
   linkType: hard
 
 "@types/node@npm:^18.7.6":
-  version: 18.19.18
-  resolution: "@types/node@npm:18.19.18"
+  version: 18.19.21
+  resolution: "@types/node@npm:18.19.21"
   dependencies:
     undici-types: ~5.26.4
-  checksum: 63fe4baabf55e6fb66b03a1fe34cc8d879b2fe018ac2901287d00baa09ea7ea82051e8e2cb4968dab7c6325de425b7eb1bd1a8315005a8ff21f8ef68e4bdaa4e
+  checksum: a8c66d97426e8bbe341a6bdf42af9659ff5ad500c790b9046c981e234db42a1354a6ae86d5d1b75c86dfa018c742fb65c400a0e31d8f9f7505d4cfe5bd11ba72
   languageName: node
   linkType: hard
 
@@ -2124,7 +2124,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"call-bind@npm:^1.0.2, call-bind@npm:^1.0.5, call-bind@npm:^1.0.6":
+"call-bind@npm:^1.0.2, call-bind@npm:^1.0.5, call-bind@npm:^1.0.7":
   version: 1.0.7
   resolution: "call-bind@npm:1.0.7"
   dependencies:
@@ -5649,14 +5649,14 @@ __metadata:
   linkType: hard
 
 "side-channel@npm:^1.0.4":
-  version: 1.0.5
-  resolution: "side-channel@npm:1.0.5"
+  version: 1.0.6
+  resolution: "side-channel@npm:1.0.6"
   dependencies:
-    call-bind: ^1.0.6
+    call-bind: ^1.0.7
     es-errors: ^1.3.0
     get-intrinsic: ^1.2.4
     object-inspect: ^1.13.1
-  checksum: 640446b4e5a9554116ed6f5bec17c6740fa8da2c1a19e4d69c1202191185d4cc24f21ba0dd3ccca140eb6a8ee978d0b5bc5132f09b7962db7f9c4bc7872494ac
+  checksum: bfc1afc1827d712271453e91b7cd3878ac0efd767495fd4e594c4c2afaa7963b7b510e249572bfd54b0527e66e4a12b61b80c061389e129755f34c493aad9b97
   languageName: node
   linkType: hard
 
