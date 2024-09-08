@@ -1530,20 +1530,20 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 22.5.2
-  resolution: "@types/node@npm:22.5.2"
+  version: 22.5.4
+  resolution: "@types/node@npm:22.5.4"
   dependencies:
     undici-types: ~6.19.2
-  checksum: 5e47839dd1919b39927a5552137ded5d3f18d9ff7729083ba851d640a6a0997ee747b9e2cf4c8a1f8418ad92ef7f0ada4fdc2d005dad2efb39fa80a5c7f6d23d
+  checksum: 77ac225c38c428200036780036da0bc6764e2721cfa8f528c7e7da7cfefe01a32a5791e28a54efbeedbc977949058d7db902b2e00139298225d4686cee4ae6db
   languageName: node
   linkType: hard
 
 "@types/node@npm:^18.7.6":
-  version: 18.19.48
-  resolution: "@types/node@npm:18.19.48"
+  version: 18.19.50
+  resolution: "@types/node@npm:18.19.50"
   dependencies:
     undici-types: ~5.26.4
-  checksum: f0cb7a990f800de53cec29e7d8a722b42ead35d145f70b3d40046f0a8aef154ac62a70dda5a88157fb97d08b3f760b1fff03c7c85623e613beea26fc5147cdbd
+  checksum: 73bdd2b46fb96816a1f7309e1b609f0832a29739c87df7daa729ff497160be143e02cf18486a0112e1981b092358aed3ca0716b532aff93c7e05f7dbb4f7586a
   languageName: node
   linkType: hard
 
@@ -2430,14 +2430,14 @@ __metadata:
   linkType: hard
 
 "debug@npm:4, debug@npm:^4.0.0, debug@npm:^4.1.1, debug@npm:^4.3.3, debug@npm:^4.3.4":
-  version: 4.3.6
-  resolution: "debug@npm:4.3.6"
+  version: 4.3.7
+  resolution: "debug@npm:4.3.7"
   dependencies:
-    ms: 2.1.2
+    ms: ^2.1.3
   peerDependenciesMeta:
     supports-color:
       optional: true
-  checksum: 1630b748dea3c581295e02137a9f5cbe2c1d85fea35c1e6597a65ca2b16a6fce68cec61b299d480787ef310ba927dc8c92d3061faba0ad06c6a724672f66be7f
+  checksum: 822d74e209cd910ef0802d261b150314bbcf36c582ccdbb3e70f0894823c17e49a50d3e66d96b633524263975ca16b6a833f3e3b7e030c157169a5fabac63160
   languageName: node
   linkType: hard
 
@@ -4495,7 +4495,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ms@npm:^2.0.0":
+"ms@npm:^2.0.0, ms@npm:^2.1.3":
   version: 2.1.3
   resolution: "ms@npm:2.1.3"
   checksum: aa92de608021b242401676e35cfa5aa42dd70cbdc082b916da7fb925c542173e36bce97ea3e804923fe92c0ad991434e4a38327e15a1b5b5f945d66df615ae6d
@@ -4984,9 +4984,9 @@ __metadata:
   linkType: hard
 
 "picocolors@npm:^1.0.0":
-  version: 1.0.1
-  resolution: "picocolors@npm:1.0.1"
-  checksum: fa68166d1f56009fc02a34cdfd112b0dd3cf1ef57667ac57281f714065558c01828cdf4f18600ad6851cbe0093952ed0660b1e0156bddf2184b6aaf5817553a5
+  version: 1.1.0
+  resolution: "picocolors@npm:1.1.0"
+  checksum: a64d653d3a188119ff45781dfcdaeedd7625583f45280aea33fcb032c7a0d3959f2368f9b192ad5e8aade75b74dbd954ffe3106c158509a45e4c18ab379a2acd
   languageName: node
   linkType: hard
 
