@@ -641,12 +641,12 @@ __metadata:
   linkType: hard
 
 "@aws-sdk/types@npm:^3.1.0, @aws-sdk/types@npm:^3.110.0":
-  version: 3.649.0
-  resolution: "@aws-sdk/types@npm:3.649.0"
+  version: 3.654.0
+  resolution: "@aws-sdk/types@npm:3.654.0"
   dependencies:
-    "@smithy/types": ^3.4.0
+    "@smithy/types": ^3.4.2
     tslib: ^2.6.2
-  checksum: d8a7ee318474a9e918cbc56ec25e9fb3518bb5f559c785986a8f336b672fa49b259386522d1b2ca828de464b0bb3744bade98e9e75183daa2e762e52d835b4b3
+  checksum: 2b26f08a1b57437b051afa3820b4deaa52dcee1534972b4a61c66ae409b59dc81dbf7ca226c845564e1e021a51e1c9a667ce0c471fe9e6bda9d29ab95ec92c7b
   languageName: node
   linkType: hard
 
@@ -1364,7 +1364,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@smithy/types@npm:^3.4.0":
+"@smithy/types@npm:^3.4.2":
   version: 3.4.2
   resolution: "@smithy/types@npm:3.4.2"
   dependencies:
