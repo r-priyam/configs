@@ -641,12 +641,12 @@ __metadata:
   linkType: hard
 
 "@aws-sdk/types@npm:^3.1.0, @aws-sdk/types@npm:^3.110.0":
-  version: 3.686.0
-  resolution: "@aws-sdk/types@npm:3.686.0"
+  version: 3.692.0
+  resolution: "@aws-sdk/types@npm:3.692.0"
   dependencies:
-    "@smithy/types": ^3.6.0
+    "@smithy/types": ^3.7.0
     tslib: ^2.6.2
-  checksum: 59eda13ad391eb719ebec1cac06755c21d043d71681f1e8ecb3ea39f333c3c7e635bc11967c57d82472c74683be519703219290684d57d594189ca35eb7935cc
+  checksum: 6261518ddc194f5daeab7ad6fdd04442b6c304938200eb361336c321d9648cf523c315e7565d13640606bc721bca43a35b416c5768a117083c4babf232730d31
   languageName: node
   linkType: hard
 
@@ -764,11 +764,11 @@ __metadata:
   linkType: hard
 
 "@aws-sdk/util-locate-window@npm:^3.0.0":
-  version: 3.679.0
-  resolution: "@aws-sdk/util-locate-window@npm:3.679.0"
+  version: 3.693.0
+  resolution: "@aws-sdk/util-locate-window@npm:3.693.0"
   dependencies:
     tslib: ^2.6.2
-  checksum: a92402253aff12be137abff0f6ce1acbda89d9dfb2267753d7907479592cba3682e91ccefd21b912cf4b62bac3068b3278ab5cd79f09c46b63edf31170fa56df
+  checksum: ff446f1247107c38c88b791b6a2ba25d63e3762819448550c27e18c329232ee3732df33562ada4123114409910f0bb9e6006add169ef0d5b8ce27ed9cde3ba82
   languageName: node
   linkType: hard
 
@@ -1353,12 +1353,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@smithy/types@npm:^3.6.0":
-  version: 3.6.0
-  resolution: "@smithy/types@npm:3.6.0"
+"@smithy/types@npm:^3.7.0":
+  version: 3.7.1
+  resolution: "@smithy/types@npm:3.7.1"
   dependencies:
     tslib: ^2.6.2
-  checksum: 4f581dc1c3e2dee8e1134fafb47de2c301330ea668214eb1a81d26b85acdb48a7e52008da0d15a402e998a79bed285a74b88949a5a4a3fe0aef38c28620ab795
+  checksum: 8db4393211db97aec515cc06748fa23acfc0c26a19c5ed6d009add623e1b1b7a470603a71f55b9de31a15696a2918e4a0913cb3531bfc7951b80bc7872f594f0
   languageName: node
   linkType: hard
 
@@ -1917,9 +1917,9 @@ __metadata:
   linkType: hard
 
 "bn.js@npm:^4.0.0":
-  version: 4.12.0
-  resolution: "bn.js@npm:4.12.0"
-  checksum: 39afb4f15f4ea537b55eaf1446c896af28ac948fdcf47171961475724d1bb65118cca49fa6e3d67706e4790955ec0e74de584e45c8f1ef89f46c812bee5b5a12
+  version: 4.12.1
+  resolution: "bn.js@npm:4.12.1"
+  checksum: f7f84a909bd07bdcc6777cccbf280b629540792e6965fb1dd1aeafba96e944f197ca10cbec2692f51e0a906ff31da1eb4317f3d1cd659d6f68b8bcd211f7ecbc
   languageName: node
   linkType: hard
 
@@ -5059,11 +5059,11 @@ __metadata:
   linkType: hard
 
 "qs@npm:^6.9.1, qs@npm:^6.9.4":
-  version: 6.13.0
-  resolution: "qs@npm:6.13.0"
+  version: 6.13.1
+  resolution: "qs@npm:6.13.1"
   dependencies:
     side-channel: ^1.0.6
-  checksum: e9404dc0fc2849245107108ce9ec2766cde3be1b271de0bf1021d049dc5b98d1a2901e67b431ac5509f865420a7ed80b7acb3980099fe1c118a1c5d2e1432ad8
+  checksum: 86c5059146955fab76624e95771031541328c171b1d63d48a7ac3b1fdffe262faf8bc5fcadc1684e6f3da3ec87a8dedc8c0009792aceb20c5e94dc34cf468bb9
   languageName: node
   linkType: hard
 
