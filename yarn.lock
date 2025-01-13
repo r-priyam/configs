@@ -641,12 +641,12 @@ __metadata:
   linkType: hard
 
 "@aws-sdk/types@npm:^3.1.0, @aws-sdk/types@npm:^3.110.0":
-  version: 3.714.0
-  resolution: "@aws-sdk/types@npm:3.714.0"
+  version: 3.723.0
+  resolution: "@aws-sdk/types@npm:3.723.0"
   dependencies:
-    "@smithy/types": ^3.7.2
+    "@smithy/types": ^4.0.0
     tslib: ^2.6.2
-  checksum: 2cc6ea0ec3331a24b5cc6dfba0963ff5a673c7149eadbaf9f9ab8bfdfaa56a7a02a7df80f6921108aca3ef022047f931fd8f36b34bfe6c963e8606f72e068143
+  checksum: 670840051b6575e3b94f4963fceb75b08a4ea027e1acbbe60b7e39a373494d537cd7c4a9825d0455be62e0c1849903f7a1b41c3a6212877d2fd4e62ffd4d26ef
   languageName: node
   linkType: hard
 
@@ -764,11 +764,11 @@ __metadata:
   linkType: hard
 
 "@aws-sdk/util-locate-window@npm:^3.0.0":
-  version: 3.693.0
-  resolution: "@aws-sdk/util-locate-window@npm:3.693.0"
+  version: 3.723.0
+  resolution: "@aws-sdk/util-locate-window@npm:3.723.0"
   dependencies:
     tslib: ^2.6.2
-  checksum: ff446f1247107c38c88b791b6a2ba25d63e3762819448550c27e18c329232ee3732df33562ada4123114409910f0bb9e6006add169ef0d5b8ce27ed9cde3ba82
+  checksum: 2ac0322b579fd4008727ca2af5daa3527395b24270cbbda1bf00fe07c8f7727e6e192a88ed864285e285fb1447e39925fa0433efebf664e6cdbc968d07e51470
   languageName: node
   linkType: hard
 
@@ -1362,12 +1362,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@smithy/types@npm:^3.7.2":
-  version: 3.7.2
-  resolution: "@smithy/types@npm:3.7.2"
+"@smithy/types@npm:^4.0.0":
+  version: 4.1.0
+  resolution: "@smithy/types@npm:4.1.0"
   dependencies:
     tslib: ^2.6.2
-  checksum: f3ae277d2f81eeb67c12e651b2e999225cda115dff8fab257a77fbe3739d32c515dbd19218590dd2c33d203259b00c80c9fc6027f8484c50725390a8fc0f1e3e
+  checksum: ff7dcb7a72a2f5e984df95342ec7276cc3249e57de76d5013bf69314a4dbd081e193c5f849e8e5c3f54be222d861272a90ab15b437678e31958eb2c76f55c689
   languageName: node
   linkType: hard
 
@@ -1537,11 +1537,11 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:^18.7.6":
-  version: 18.19.69
-  resolution: "@types/node@npm:18.19.69"
+  version: 18.19.70
+  resolution: "@types/node@npm:18.19.70"
   dependencies:
     undici-types: ~5.26.4
-  checksum: 4c4dcb79aa4c6680e05cad8514140a9b6f50387e33255afa53619ed7971371cdba09b235acad9bb7e2464ad8375db7681dcef0bb54170d136ba63605736700ef
+  checksum: 6ce382b659a03fb694b8af4bbf3a397c0f8b6448ab4c0f17fc58de8fe649c474146b88c0317ab0ccb50ce9e251464498b0aa43227f1626d4f65bd196cbae6764
   languageName: node
   linkType: hard
 
